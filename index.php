@@ -16,7 +16,7 @@
         <!-- Facebook Open Graph meta -->
         <meta property="og:title" content="František Řehoř">
         <meta property="og:description" content="František Řehoř -- Data engineer -- Budweis (CZ)">
-        <meta property="og:image" content="http://frantisekrehor.cz/fr.jpg">
+        <meta property="og:image" content="http://frantisekrehor.cz/frantisek_rehor.jpg">
         <meta property="og:url" content="http://frantisekrehor.cz">
 
         <link rel="shortcut icon" href="favicon.png">
