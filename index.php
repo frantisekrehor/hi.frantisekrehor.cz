@@ -10,18 +10,18 @@
 
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">        
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="description" content="František Řehoř -- Data engineer -- Budweis (CZ)">
+        <meta name="description" content="František Řehoř -- BI Architect &amp; Developer">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <!-- Facebook Open Graph meta -->
         <meta property="og:title" content="František Řehoř">
-        <meta property="og:description" content="František Řehoř -- Data engineer -- Budweis (CZ)">
+        <meta property="og:description" content="František Řehoř -- BI Architect &amp; Developer">
         <meta property="og:image" content="http://frantisekrehor.cz/frantisek_rehor.jpg">
         <meta property="og:url" content="http://frantisekrehor.cz">
 
         <link rel="shortcut icon" href="favicon.png">
 
-        <title>František Řehoř</title>
+        <title>František Řehoř -- BI Architect &amp; Developer</title>
 
         <!-- Included Font Files -->
         <link href="css" rel="stylesheet" type="text/css">
@@ -40,10 +40,10 @@
                     <div class="block__inner">
                         <div class="block-content">
                             <h1 class="block__title">
-                                <span style="visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">Hey! I'm Frank,</span>
+                                <span style="visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);"><b>Hey! I'm Frank</b></span>
                             </h1>
                             <h1 class="block__title">
-                                <span style="visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">an aspiring <em>data engineer</em> living in&nbsp;<a href="https://www.google.cz/maps/place/Ceske+Budejovice/" target="_blank" style="text-decoration: underline;"><em>Budweis</em></a> working for <a href="http://keboola.asia/" target="_blank" style="text-decoration: underline;"><em>Keboola Asia</em></a></span>
+                                <span style="visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">BI Architect &amp; Developer living in&nbsp;<a href="https://www.google.cz/maps/place/Ceske+Budejovice/" target="_blank" style="text-decoration: underline;color: white;">Budweis</a> working for <a href="http://keboola.asia/" target="_blank" style="text-decoration: underline;color: white;">Keboola Asia</a></span>
                             </h1>
                             <div class="block__cta" style="overflow: visible;">
                                 <a href="mailto:hi@frantisekrehor.cz" style="transform: matrix(1, 0, 0, 1, 0, 0); visibility: inherit; opacity: 1;">
@@ -73,7 +73,11 @@
                             </div>
                             <div class="content__inner">
                                 <p>Hey what's up?<br /> My full name's František Řehoř, but nobody beyond the 
-                                area of Czech&nbsp;Republic is able to pronounce it, thus simply Frank. I'm an aspiring data engineer living in the <a href="https://www.google.cz/maps/place/Ceske+Budejovice/" target="_blank">city of Budweiser beer</a> and currently working for Bali-based <a href="http://keboola.asia/" target="_blank">Keboola Asia</a>.</p>
+                                Czech&nbsp;Republic area is able to pronounce it, thus simply Frank. 
+                                </p>
+                                <p>
+                                I'm a BI developer living in the <a href="https://www.google.cz/maps/place/Ceske+Budejovice/" target="_blank">city of Budweiser beer</a> and currently working mostly for Bali-based <a href="http://keboola.asia/" target="_blank">Keboola Asia</a>.
+                                </p>
                                 
                             </div>
                         </div>
@@ -82,14 +86,14 @@
                                 <h2 class="content__tag">What</h2>
                             </div>
                             <div class="content__inner">
-                                <p>I'm fluent in <em>SQL</em> <em>many BI tools</em>
-                                and constantly improving my <em>Python</em> programming skills. 
+                                <p>I'm fluent in <em>SQL</em> and many BI tools like <em>Power BI</em>.
+                                Constantly improving my <em>Python</em> programming skills. 
                                 I know <em>HTML</em> <em>CSS</em> and a bit of <em>PHP</em>.
                                 </p>
                                 <p>
-                                Experiencing with <em>REST APIs</em> and wrangling <em>data of any format</em> and <em>any source</em> on daily basis. <em>Command line</em> is becoming my good friend.</p>
+                                I'm designing <em>ETL procedures</em> experiencing with <em>REST APIs</em> and wrangling <em>data</em> of any format and source on daily basis. <em>Command line</em> is slowly becoming my good friend.</p>
                                 
-                                <p>I have a 5+ years experience in <em>online marketing</em> and <em>ecommerce</em>.</p>
+                                <p>I have a 5+ years experience in <em>online marketing</em> <em>ecommerce</em> and <em>web analytics</em>. Previously, I worked for clients from <em>telco</em> and <em>online payment</em> industry.</p>
 
                                 
                             </div>
@@ -99,7 +103,11 @@
                                 <h2 class="content__tag">Where</h2>
                             </div>
                             <div class="content__inner">
-                                <p>Wanna meet and talk?<br />Stop by in my favourite <a href="http://www.coworkingcb.cz/" target="_blank">coworking space</a> in the center of Budweis or simply drop a line.</p>
+                                <p>Wanna meet and talk?<br />Stop by in my favourite <a href="https://www.cowocb.cz/" target="_blank">coworking space</a> in the center of Budweis or simply drop a line.
+                                </p>
+                                <p>
+                                hi@frantisekrehor.cz
+                                </p>
                             </div>
                         </div>
                     </div>
