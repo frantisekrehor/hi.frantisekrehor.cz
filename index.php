@@ -89,8 +89,8 @@
                                 <p>
                                 Experiencing with <em>REST APIs</em> and wrangling <em>data of any format</em> and <em>any source</em> on daily basis. <em>Command line</em> is becoming my good friend.</p>
                                 
-                                <p>I have a 5-year experience in <em>online marketing</em> and <em>ecommerce</em>.</p>
-                                <p><em></em>Resolutions for 2017: Expand my knowledge of statistics and learn more about data mining and machine learning techniques.</p>
+                                <p>I have a 5+ years experience in <em>online marketing</em> and <em>ecommerce</em>.</p>
+
                                 
                             </div>
                         </div>
