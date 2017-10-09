@@ -12,6 +12,8 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="description" content="František Řehoř -- BI Architect &amp; Developer">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="keywords" content="František Řehoř, Business Intelligence, data, ETL, developer">
+        <meta name="author" content="František Řehoř">
 
         <!-- Facebook Open Graph meta -->
         <meta property="og:title" content="František Řehoř">
@@ -63,10 +65,10 @@
                                 <a class="block__social__link" target="_blank" href="https://linkedin.com/in/frantisekrehor">
                                     <svg><use xlink:href="svg-defs.svg#linkedin"/></svg>
                                 </a>
-                                <a class="block__social__link" target="_blank" href="http://twitter.com/frantisekrehor">
+                                <a class="block__social__link" target="_blank" href="https://twitter.com/frantisekrehor">
                                     <svg><use xlink:href="svg-defs.svg#twitter"/></svg>
                                 </a>
-                                <a class="block__social__link" target="_blank" href="http://github.com/frantisekrehor">
+                                <a class="block__social__link" target="_blank" href="https://github.com/frantisekrehor">
                                     <svg><use xlink:href="svg-defs.svg#github"/></svg>
                                 </a>
                             </div>
@@ -112,7 +114,9 @@
                                 <h2 class="content__tag">Where</h2>
                             </div>
                             <div class="content__inner">
-                                <p>Wanna meet and talk?<br />Stop by in my favourite <a href="https://www.cowocb.cz/" target="_blank">coworking space</a> in the center of Budweis or simply drop a line.
+                                <p>
+                                    Wanna meet and talk?<br /> 
+                                    Drop me a line or stop by in <a href="https://www.cowocb.cz/" target="_blank">cowocb</a> coworking space in the center of Budweis.
                                 </p>
                                 <p>
                                 hi@frantisekrehor.cz
