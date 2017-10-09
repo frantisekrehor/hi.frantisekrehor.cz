@@ -19,6 +19,15 @@
         <meta property="og:image" content="http://hi.frantisekrehor.cz/frantisek_rehor.jpg">
         <meta property="og:url" content="http://hi.frantisekrehor.cz">
 
+        <!-- Twitter -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:domain" content="http://hi.frantisekrehor.cz">
+        <meta name="twitter:title" content="František Řehoř">
+        <meta name="twitter:description" content="BI Architect &amp; Developer">
+        <meta name="twitter:image:src" content="http://hi.frantisekrehor.cz/frantisek_rehor.jpg">
+
+        <meta itemprop="image" content="http://hi.frantisekrehor.cz/frantisek_rehor.jpg">
+
         <link rel="shortcut icon" href="favicon.png">
 
         <title>František Řehoř -- BI Architect &amp; Developer</title>
