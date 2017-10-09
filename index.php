@@ -16,8 +16,8 @@
         <!-- Facebook Open Graph meta -->
         <meta property="og:title" content="František Řehoř">
         <meta property="og:description" content="František Řehoř -- BI Architect &amp; Developer">
-        <meta property="og:image" content="http://frantisekrehor.cz/frantisek_rehor.jpg">
-        <meta property="og:url" content="http://frantisekrehor.cz">
+        <meta property="og:image" content="http://hi.frantisekrehor.cz/frantisek_rehor.jpg">
+        <meta property="og:url" content="http://hi.frantisekrehor.cz">
 
         <link rel="shortcut icon" href="favicon.png">
 
@@ -91,9 +91,9 @@
                                 I know <em>HTML</em> <em>CSS</em> and a bit of <em>PHP</em>.
                                 </p>
                                 <p>
-                                I'm designing <em>ETL procedures</em> experiencing with <em>REST APIs</em> and wrangling <em>data</em> of any format and source on daily basis. <em>Command line</em> is slowly becoming my good friend.</p>
+                                I'm designing <em>ETL procedures</em>, experiencing with <em>REST APIs</em> and wrangling <em>data</em> of any format and source on daily basis. <em>Command line</em> is slowly becoming my good friend.</p>
                                 
-                                <p>I have a 5+ years experience in <em>online marketing</em> <em>ecommerce</em> and <em>web analytics</em>. Previously, I worked for clients from <em>telco</em> and <em>online payment</em> industry.</p>
+                                <p>I have a 5+ years experience in <em>online marketing</em> <em>ecommerce</em> and <em>web analytics</em>. Previously, I worked for clients from <em>telco</em> and <em>online payments</em> industry.</p>
 
                                 
                             </div>
