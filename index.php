@@ -51,10 +51,10 @@
                     <div class="block__inner">
                         <div class="block-content">
                             <h1 class="block__title">
-                                <span style="visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);"><b>Hi there, I'm Frank</b></span>
+                                <span style="visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);"><b>Hi there! I'm Frank</b></span>
                             </h1>
                             <h1 class="block__title">
-                                <span style="visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">BI &amp; ETL Developer<br />living in&nbsp;<a href="https://www.google.cz/maps/place/Ceske+Budejovice/" target="_blank" style="text-decoration: underline;color: white;">České Budějovice</a></span>
+                                <span style="visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">BI &amp; ETL Developer<br />living in&nbsp;<a href="https://en.mapy.cz/zakladni?x=14.6901811&y=49.8290475&z=8&source=muni&id=537" target="_blank" style="text-decoration: underline;color: white;">České Budějovice</a></span>
                             </h1>
                             <div class="block__cta" style="overflow: visible;">
                                 <a href="mailto:hi@frantisekrehor.cz" style="transform: matrix(1, 0, 0, 1, 0, 0); visibility: inherit; opacity: 1;">
@@ -86,7 +86,7 @@
                                 <p>Hi there!</p>
                                 <p> My full name is František Řehoř... Don't worry, nobody beyond the 
                                 Czech&nbsp;Republic is able to pronounce it, thus call me simply Frank :-) 
-                                I'm a BI &amp; ETL developer living in the <a href="https://www.google.cz/maps/place/Ceske+Budejovice/" target="_blank">city of Budweiser beer</a>.
+                                I'm a BI &amp; ETL developer living in the <a href="https://en.mapy.cz/zakladni?x=14.6901811&y=49.8290475&z=8&source=muni&id=537" target="_blank">city of Budweiser beer</a>.
                                 </p>   
                             </div>
                         </div>
@@ -96,12 +96,15 @@
                             </div>
                             <div class="content__inner">
                                 <p>I'm fluent in <em>SQL</em> and reporting tools like <em>Power BI</em>.
-                                I'm constantly improving my programming skills, mostly in <em>Python</em>. <em>Command line</em>, <em>Docker</em> and <em>GIT</em> are slowly becoming my good friends.</p>
+                                I'm constantly improving my programming skills, mostly in <em>Python</em>.
+                                </p> 
+
+                                <p><em>Command line</em> <em>Docker</em> and <em>GIT</em> are also slowly becoming my good friends.</p>
                                 </p>
                                 <p>
-                                For my clients I design and build <em>reports</em> and <em>ETL procedures</em> with <em><a href="https://www.keboola.com/" target="_blank">Keboola Connection</a></em>. On daily basis, I'm experiencing with <em>REST API</em>s and wrangling data of any format and source. 
+                                For my clients I design and build <em>reports</em> and <em>ETL procedures</em> with <em><a href="https://www.keboola.com/" target="_blank">Keboola Connection</a></em>. On daily basis, I'm experiencing with <em>REST API</em>s and wrangling data of any format and any source. 
                                 
-                                <p>I have a 5+ years experience in <em>online marketing</em>, <em>ecommerce</em>, <em>web analytics</em>, and with retail and wholesale. I have cooperated on projects for clients, i.e. from <em>telco</em> or <em>banking</em> industry.</p>
+                                <p>I have a 5+ years experience in <em>online marketing</em> <em>ecommerce</em> <em>web analytics</em>, and with retail and wholesale. I have cooperated on projects for clients, i.e. from <em>telco</em> or <em>banking</em> industry.</p>
 
                                 
                             </div>
@@ -112,8 +115,7 @@
                             </div>
                             <div class="content__inner">
                                 <p>
-                                    Wanna meet and talk?<br /> 
-                                    Drop me a line or stop by in <a href="https://www.cowocb.cz/" target="_blank">cowocb</a> in the center of České Budějovice.
+                                    Wanna meet and talk? Drop me a line or stop by in <a href="https://www.cowocb.cz/" target="_blank">cowocb</a> in the <a href="https://en.mapy.cz/zakladni?x=14.4740234&y=48.9730851&z=17&source=firm&id=13091674">center of České Budějovice</a>.
                                 </p>
                                 <p>
                                 <a href="mailto:hi@frantisekrehor.cz">hi@frantisekrehor.cz</a>, 
