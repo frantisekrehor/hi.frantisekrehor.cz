@@ -10,34 +10,34 @@
 
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">        
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="description" content="František Řehoř | BI &amp; ETL Developer">
+        <meta name="description" content="František Řehoř | Data Engineer">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="keywords" content="František Řehoř, Business Intelligence, data, ETL, developer">
+        <meta name="keywords" content="František Řehoř, data engineer, Business Intelligence, data, ETL">
         <meta name="author" content="František Řehoř">
 
         <!-- Facebook Open Graph meta -->
         <meta property="og:title" content="František Řehoř">
-        <meta property="og:description" content="František Řehoř | BI &amp; ETL Developer">
-        <meta property="og:image" content="http://hi.frantisekrehor.cz/frantisek_rehor.jpg">
+        <meta property="og:description" content="Data Engineer">
+        <meta property="og:image" content="http://hi.frantisekrehor.cz/img/frantisek_rehor.jpg">
         <meta property="og:url" content="http://hi.frantisekrehor.cz">
 
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:domain" content="http://hi.frantisekrehor.cz">
         <meta name="twitter:title" content="František Řehoř">
-        <meta name="twitter:description" content="BI &amp; ETL Developer">
-        <meta name="twitter:image:src" content="http://hi.frantisekrehor.cz/frantisek_rehor.jpg">
+        <meta name="twitter:description" content="Data Engineer">
+        <meta name="twitter:image:src" content="http://hi.frantisekrehor.cz/img/frantisek_rehor.jpg">
 
-        <meta itemprop="image" content="http://hi.frantisekrehor.cz/frantisek_rehor.jpg">
+        <meta itemprop="image" content="http://hi.frantisekrehor.cz/img/frantisek_rehor.jpg">
 
-        <link rel="shortcut icon" href="favicon.png">
+        <link rel="shortcut icon" href="img/favicon.png">
 
-        <title>František Řehoř | BI &amp; ETL Developer</title>
+        <title>František Řehoř | Data Engineer</title>
 
         <!-- Included Font Files -->
-        <link href="css" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" type="text/css" href="cs/css">
         <!-- Included CSS Files -->
-        <link rel="stylesheet" type="text/css" href="app.min.css?<?php echo date('l jS \of F Y h:i:s A'); ?>">
+        <link rel="stylesheet" type="text/css" href="cs/app.min.css?<?php echo date('l jS \of F Y h:i:s A'); ?>">
     </head>
     <body>
         <!-- Google Tag Manager (noscript) -->
@@ -54,7 +54,7 @@
                                 <span style="visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);"><b>Hi there! I'm Frank</b></span>
                             </h1>
                             <h1 class="block__title">
-                                <span style="visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">BI &amp; ETL Developer<br />living in&nbsp;<a href="https://en.mapy.cz/zakladni?x=14.6901811&y=49.8290475&z=8&source=muni&id=537" target="_blank" style="text-decoration: underline;color: white;">České Budějovice</a></span>
+                                <span style="visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">Data Engineer<br />living in&nbsp;<a href="https://en.mapy.cz/zakladni?x=14.6901811&y=49.8290475&z=8&source=muni&id=537" target="_blank" style="text-decoration: underline;color: white;">České Budějovice</a></span>
                             </h1>
                             <div class="block__cta" style="overflow: visible;">
                                 <a href="mailto:hi@frantisekrehor.cz" style="transform: matrix(1, 0, 0, 1, 0, 0); visibility: inherit; opacity: 1;">
@@ -63,13 +63,13 @@
                             </div>
                             <div class="block__social">
                                 <a class="block__social__link" target="_blank" href="https://linkedin.com/in/frantisekrehor">
-                                    <svg><use xlink:href="svg-defs.svg#linkedin"/></svg>
+                                    <svg><use xlink:href="img/svg-defs.svg#linkedin"/></svg>
                                 </a>
                                 <a class="block__social__link" target="_blank" href="https://twitter.com/frantisekrehor">
-                                    <svg><use xlink:href="svg-defs.svg#twitter"/></svg>
+                                    <svg><use xlink:href="img/svg-defs.svg#twitter"/></svg>
                                 </a>
                                 <a class="block__social__link" target="_blank" href="https://github.com/frantisekrehor">
-                                    <svg><use xlink:href="svg-defs.svg#github"/></svg>
+                                    <svg><use xlink:href="img/svg-defs.svg#github"/></svg>
                                 </a>
                             </div>
                         </div>
@@ -84,9 +84,8 @@
                             </div>
                             <div class="content__inner">
                                 <p>Hi there!</p>
-                                <p> My full name is František Řehoř... Don't worry, nobody beyond the 
-                                Czech&nbsp;Republic is able to pronounce it, thus call me simply Frank :-) 
-                                I'm a BI &amp; ETL developer living in the <a href="https://en.mapy.cz/zakladni?x=14.6901811&y=49.8290475&z=8&source=muni&id=537" target="_blank">city of Budweiser beer</a>.
+                                <p> My full name is František Řehoř... Don't worry, nobody except Czechs is able to pronounce it, thus call me simply Frank :-) 
+                                I'm a Data Engineer living in the <a href="https://en.mapy.cz/zakladni?x=14.6901811&y=49.8290475&z=8&source=muni&id=537" target="_blank">city of Budweiser beer</a>.
                                 </p>   
                             </div>
                         </div>
@@ -104,7 +103,7 @@
                                 <p>
                                 For my clients I design and build <em>reports</em> and <em>ETL procedures</em> with <em><a href="https://www.keboola.com/" target="_blank">Keboola Connection</a></em>. On daily basis, I'm experiencing with <em>REST API</em>s and wrangling data of any format and any source. 
                                 
-                                <p>I have a 5+ years experience in <em>online marketing</em> <em>ecommerce</em> <em>web analytics</em>, and with retail and wholesale. I have cooperated on projects for clients, i.e. from <em>telco</em> or <em>banking</em> industry.</p>
+                                <p>I have a 5+ years experience in <em>online marketing</em> <em>ecommerce</em> <em>web analytics</em>, with retail and wholesale. I have cooperated on projects for clients from i.e. <em>telco</em> <em>banking</em> <em>logistics</em> <em>culture</em> or <em>fashion</em> industry.</p>
 
                                 
                             </div>
@@ -115,7 +114,8 @@
                             </div>
                             <div class="content__inner">
                                 <p>
-                                    Wanna meet and talk? Drop me a line or stop by in <a href="https://www.cowocb.cz/" target="_blank">cowocb</a> in the <a href="https://en.mapy.cz/zakladni?x=14.4740234&y=48.9730851&z=17&source=firm&id=13091674">center of České Budějovice</a>.
+                                    Wanna meet and talk? <br />
+                                    Drop me a line or stop by in <a href="https://www.cowocb.cz/" target="_blank">cowocb</a> in the <a href="https://en.mapy.cz/zakladni?x=14.4740234&y=48.9730851&z=17&source=firm&id=13091674">center of České Budějovice</a>.
                                 </p>
                                 <p>
                                 <a href="mailto:hi@frantisekrehor.cz">hi@frantisekrehor.cz</a>, 
@@ -130,10 +130,10 @@
         </section>
 
         <!-- Initialize JS Plugins/Shims -->
-        <script src="jquery.js"></script>
-        <script src="CSSRulePlugin.min.js"></script>
-        <script src="TweenMax.min.js"></script>
-        <script src="app.min.js"></script>
+        <script src="js/jquery.js"></script>
+        <script src="js/CSSRulePlugin.min.js"></script>
+        <script src="js/TweenMax.min.js"></script>
+        <script src="js/app.min.js"></script>
 
     
 
