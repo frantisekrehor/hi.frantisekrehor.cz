@@ -83,7 +83,6 @@
                                 <h2 class="content__tag">Who</h2>
                             </div>
                             <div class="content__inner">
-                                <p>Hi there!</p>
                                 <p> My full name is František Řehoř... Don't worry, nobody except Czechs is able to pronounce it, thus call me simply Frank :-) 
                                 I'm a Data Engineer living in the <a href="https://en.mapy.cz/zakladni?x=14.6901811&y=49.8290475&z=8&source=muni&id=537" target="_blank">city of Budweiser beer</a>.
                                 </p>   
@@ -95,10 +94,8 @@
                             </div>
                             <div class="content__inner">
                                 <p>I'm fluent in <em>SQL</em> and reporting tools like <em>Power BI</em>.
-                                I'm constantly improving my programming skills, mostly in <em>Python</em>.
-                                </p> 
-
-                                <p><em>Command line</em> <em>Docker</em> and <em>GIT</em> are also slowly becoming my good friends.</p>
+                                I'm constantly improving my programming skills, mostly in <em>Python</em>. 
+                                <em>Command line</em> <em>Docker</em> and <em>GIT</em> are also slowly becoming my good friends.
                                 </p>
                                 <p>
                                 For my clients I design and build <em>reports</em> and <em>ETL procedures</em> with <em><a href="https://www.keboola.com/" target="_blank">Keboola Connection</a></em>. On daily basis, I'm experiencing with <em>REST API</em>s and wrangling data of any format and any source. 
